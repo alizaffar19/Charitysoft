@@ -1,0 +1,805 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Black
+FamilyName:Poppins
+StyleName:Black
+FullName:Poppins Black
+MenuName:Poppins Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:151340
+FileModTime:1639459902
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins Black
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-BlackItalic
+FamilyName:Poppins
+StyleName:Black Italic
+FullName:Poppins Black Italic
+MenuName:Poppins Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:171544
+FileModTime:1639459902
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins Black
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Bold
+FamilyName:Poppins
+StyleName:Bold
+FullName:Poppins Bold
+MenuName:Poppins
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:153900
+FileModTime:1639459900
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-BoldItalic
+FamilyName:Poppins
+StyleName:Bold Italic
+FullName:Poppins Bold Italic
+MenuName:Poppins
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:176552
+FileModTime:1639459900
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ExtraBold
+FamilyName:Poppins
+StyleName:ExtraBold
+FullName:Poppins ExtraBold
+MenuName:Poppins ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:152712
+FileModTime:1639459900
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins ExtraBold
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ExtraBoldItalic
+FamilyName:Poppins
+StyleName:ExtraBold Italic
+FullName:Poppins ExtraBold Italic
+MenuName:Poppins ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:173868
+FileModTime:1639459902
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins ExtraBold
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ExtraLight
+FamilyName:Poppins
+StyleName:ExtraLight
+FullName:Poppins ExtraLight
+MenuName:Poppins ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:161404
+FileModTime:1639459900
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins ExtraLight
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ExtraLightItalic
+FamilyName:Poppins
+StyleName:ExtraLight Italic
+FullName:Poppins ExtraLight Italic
+MenuName:Poppins ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:186124
+FileModTime:1639459900
+WeightClass:275
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins ExtraLight
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Italic
+FamilyName:Poppins
+StyleName:Italic
+FullName:Poppins Italic
+MenuName:Poppins
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:181972
+FileModTime:1639459900
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Light
+FamilyName:Poppins
+StyleName:Light
+FullName:Poppins Light
+MenuName:Poppins Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:159848
+FileModTime:1639459900
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins Light
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-LightItalic
+FamilyName:Poppins
+StyleName:Light Italic
+FullName:Poppins Light Italic
+MenuName:Poppins Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:184420
+FileModTime:1639459900
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins Light
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Medium
+FamilyName:Poppins
+StyleName:Medium
+FullName:Poppins Medium
+MenuName:Poppins Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:156480
+FileModTime:1639459900
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins Medium
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-MediumItalic
+FamilyName:Poppins
+StyleName:Medium Italic
+FullName:Poppins Medium Italic
+MenuName:Poppins Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:180412
+FileModTime:1639459900
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins Medium
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Regular
+FamilyName:Poppins
+StyleName:Regular
+FullName:Poppins Regular
+MenuName:Poppins
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:158192
+FileModTime:1639459900
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-SemiBold
+FamilyName:Poppins
+StyleName:SemiBold
+FullName:Poppins SemiBold
+MenuName:Poppins SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:155192
+FileModTime:1639459900
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins SemiBold
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-SemiBoldItalic
+FamilyName:Poppins
+StyleName:SemiBold Italic
+FullName:Poppins SemiBold Italic
+MenuName:Poppins SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:178548
+FileModTime:1639459900
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins SemiBold
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Thin
+FamilyName:Poppins
+StyleName:Thin
+FullName:Poppins Thin
+MenuName:Poppins Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:161600
+FileModTime:1639459898
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins Thin
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ThinItalic
+FamilyName:Poppins
+StyleName:Thin Italic
+FullName:Poppins Thin Italic
+MenuName:Poppins Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Poppins\Poppins-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:186992
+FileModTime:1639459898
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins Thin
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Black
+FamilyName:Lato
+StyleName:Black
+FullName:Lato Black
+MenuName:Lato Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Lato\Lato-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:69484
+FileModTime:1638026476
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Lato Black
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-BlackItalic
+FamilyName:Lato
+StyleName:Black Italic
+FullName:Lato Black Italic
+MenuName:Lato Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Lato\Lato-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71948
+FileModTime:1638026476
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Lato Black
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Bold
+FamilyName:Lato
+StyleName:Bold
+FullName:Lato Bold
+MenuName:Lato
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Lato\Lato-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:73316
+FileModTime:1638026476
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-BoldItalic
+FamilyName:Lato
+StyleName:Bold Italic
+FullName:Lato Bold Italic
+MenuName:Lato
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Lato\Lato-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:77680
+FileModTime:1638026476
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Italic
+FamilyName:Lato
+StyleName:Italic
+FullName:Lato Italic
+MenuName:Lato
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Lato\Lato-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:75744
+FileModTime:1638026476
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Light
+FamilyName:Lato
+StyleName:Light
+FullName:Lato-Light
+MenuName:Lato Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Lato\Lato-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:77192
+FileModTime:1638026476
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Lato Light
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-LightItalic
+FamilyName:Lato
+StyleName:Light Italic
+FullName:Lato-LightItalic
+MenuName:Lato Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Lato\Lato-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:49064
+FileModTime:1638026476
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Lato Light
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Regular
+FamilyName:Lato
+StyleName:Regular
+FullName:Lato Regular
+MenuName:Lato
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Lato\Lato-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:75136
+FileModTime:1638026476
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Hairline
+FamilyName:Lato
+StyleName:Hairline
+FullName:Lato-Hairline
+MenuName:Lato Hairline
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Lato\Lato-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:69968
+FileModTime:1638026476
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Lato Hairline
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-HairlineItalic
+FamilyName:Lato
+StyleName:Hairline Italic
+FullName:Lato-HairlineItalic
+MenuName:Lato Hairline
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Lato\Lato-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:48848
+FileModTime:1638026476
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Lato Hairline
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Lato\OFL.txt
+FileModTime:1638026476
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Antonio-Bold
+FamilyName:Antonio
+StyleName:Bold
+FullName:Antonio Bold
+MenuName:Antonio
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Antonio\static\Antonio-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37504
+FileModTime:1639462038
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Antonio
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Antonio-ExtraLight
+FamilyName:Antonio
+StyleName:ExtraLight
+FullName:Antonio ExtraLight
+MenuName:Antonio ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Antonio\static\Antonio-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37480
+FileModTime:1639462038
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Antonio ExtraLight
+NameArray:0,Win,16,Antonio
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Antonio-Light
+FamilyName:Antonio
+StyleName:Light
+FullName:Antonio Light
+MenuName:Antonio Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Antonio\static\Antonio-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37500
+FileModTime:1639462038
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Antonio Light
+NameArray:0,Win,16,Antonio
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Antonio-Medium
+FamilyName:Antonio
+StyleName:Medium
+FullName:Antonio Medium
+MenuName:Antonio Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Antonio\static\Antonio-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37488
+FileModTime:1639462038
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Antonio Medium
+NameArray:0,Win,16,Antonio
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Antonio-Regular
+FamilyName:Antonio
+StyleName:Regular
+FullName:Antonio Regular
+MenuName:Antonio
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Antonio\static\Antonio-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37416
+FileModTime:1639462038
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Antonio
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Antonio-SemiBold
+FamilyName:Antonio
+StyleName:SemiBold
+FullName:Antonio SemiBold
+MenuName:Antonio SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Antonio\static\Antonio-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37472
+FileModTime:1639462038
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Antonio SemiBold
+NameArray:0,Win,16,Antonio
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Antonio-Thin
+FamilyName:Antonio
+StyleName:Thin
+FullName:Antonio Thin
+MenuName:Antonio Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pixlolaB\Desktop\ali work\play\Font\Antonio\static\Antonio-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37392
+FileModTime:1639462038
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Antonio Thin
+NameArray:0,Win,16,Antonio
+%EndFont
+
